@@ -1,5 +1,5 @@
 * .color{
-    color:black;
+    color:whitesmoke;
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@
 
 .btn{
     padding: 40px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 500;
 } 
 
@@ -49,6 +49,8 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
+    background: url("/assets/jujutsu_kaisen_scenery_hd_jujutsu_kaisen-1280x720.jpg");
+    background-size: cover;
 }
 
  button{
