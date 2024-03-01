@@ -12,6 +12,7 @@
 // clicking an operator should complete the math equation we just did and then make a new equation
 // After an equation has happened, hitting a number key clears out the previous equation and starts building a new first number for a new equation 
 // Use the clear button to clear any equation thats done or when you just want to clear your current one
+// Use the delete button to erase a number instead of clearing the whole screen.
 
 let btn0 = document.getElementById("btn0");
 let btn1 = document.getElementById("btn1");
