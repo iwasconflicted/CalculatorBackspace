@@ -33,7 +33,8 @@
 
 .btn{
     padding: 40px;
-    font-size:large;
+    font-size: 25px;
+    font-weight: 500;
 } 
 
 *{
@@ -50,16 +51,17 @@ body{
     align-items: center;
 }
 
-button{
+ button{
     border-radius: 5px;
     flex: 0 0 22%;
     margin: 10px 0;
-}
+} 
 
 .buttons{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 15px
+    
     }  
 
